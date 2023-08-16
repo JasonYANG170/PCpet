@@ -21,8 +21,5 @@
 # 程序界面
 ![屏幕截图 2023-08-16 142353](https://github.com/JasonYANG170/YANG-PCpet/assets/39414350/6f304b4a-eb0c-43d7-9141-ab854fd0fbea)
 ![屏幕截图 2023-08-16 142148](https://github.com/JasonYANG170/YANG-PCpet/assets/39414350/e99cb4e3-b48b-43e4-8ccd-a062103d1c35)
-
 ![屏幕截图 2023-08-16 142110](https://github.com/JasonYANG170/YANG-PCpet/assets/39414350/271e9fe2-4c0f-42b5-848f-09585779ab5c)
-b09)
-
 ![屏幕截图(906)](https://github.com/JasonYANG170/YANG-PCpet/assets/39414350/19efdcf7-6b4b-4249-9973-8d0914ea96a4)

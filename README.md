@@ -8,6 +8,8 @@
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
 
+  <img src="https://github.com/JasonYANG170/YANG-PCpet/assets/39414350/6f304b4a-eb0c-43d7-9141-ab854fd0fbea">
+<br>
 这是一项基于C++语言的QT应用程序
   
 <br>

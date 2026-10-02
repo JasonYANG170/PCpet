@@ -1,0 +1,5 @@
+
+# Private deployment credentials
+.env
+.env.local
+wifi_credentials.local.h
